@@ -1,4 +1,5 @@
 * text=auto !eol
+docs/portaudio_icmc2001.pdf -text
 pa_asio/Callback_adaptation_.pdf -text
 pa_asio/Pa_ASIO.pdf -text
 pa_dll_switch/letter_from_tim_010817.txt svneol=native#unset
