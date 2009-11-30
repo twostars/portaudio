@@ -116,6 +116,7 @@ test/patest_converters.c -text
 test/patest_dsound_surround.c -text
 test/patest_read_write_wire.c -text
 test/patest_sine_channelmaps.c -text
+test/patest_sine_srate.c -text
 test/patest_timing.c -text
 test/patest_wmme_ac3.c -text
 test/patest_wmme_surround.c -text
