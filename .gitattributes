@@ -96,6 +96,7 @@ doc/src/srcguide.dox -text
 doc/utils/checkfiledocs.py -text
 include/pa_jack.h -text
 include/pa_win_ds.h -text
+include/pa_win_wasapi.h -text
 include/pa_win_waveformat.h -text
 /ltmain.sh -text
 /missing -text
