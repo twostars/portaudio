@@ -111,7 +111,6 @@ src/hostapi/coreaudio/pa_mac_core_blocking.h -text
 src/hostapi/oss/low_latency_tip.txt svneol=native#unset
 src/hostapi/wasapi/mingw-include/AudioSessionTypes.h -text
 src/hostapi/wasapi/mingw-include/FunctionDiscoveryKeys_devpkey.h -text
-src/hostapi/wasapi/mingw-include/PropIdl.h -text
 src/hostapi/wasapi/mingw-include/Rpcsal.h -text
 src/hostapi/wasapi/mingw-include/ShTypes.h -text
 src/hostapi/wasapi/mingw-include/audioclient.h -text
@@ -119,6 +118,7 @@ src/hostapi/wasapi/mingw-include/devicetopology.h -text
 src/hostapi/wasapi/mingw-include/endpointvolume.h -text
 src/hostapi/wasapi/mingw-include/functiondiscoverykeys.h -text
 src/hostapi/wasapi/mingw-include/mmdeviceapi.h -text
+src/hostapi/wasapi/mingw-include/propidl.h -text
 src/hostapi/wasapi/mingw-include/propkey.h -text
 src/hostapi/wasapi/mingw-include/propkeydef.h -text
 src/hostapi/wasapi/mingw-include/propsys.h -text
