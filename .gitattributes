@@ -115,6 +115,11 @@ src/hostapi/wasapi/mingw-include/audioclient.h -text
 src/hostapi/wasapi/mingw-include/devicetopology.h -text
 src/hostapi/wasapi/mingw-include/endpointvolume.h -text
 src/hostapi/wasapi/mingw-include/functiondiscoverykeys.h -text
+src/hostapi/wasapi/mingw-include/ks.h -text
+src/hostapi/wasapi/mingw-include/ksguid.h -text
+src/hostapi/wasapi/mingw-include/ksmedia.h -text
+src/hostapi/wasapi/mingw-include/ksproxy.h -text
+src/hostapi/wasapi/mingw-include/ksuuids.h -text
 src/hostapi/wasapi/mingw-include/mmdeviceapi.h -text
 src/hostapi/wasapi/mingw-include/propidl.h -text
 src/hostapi/wasapi/mingw-include/propkey.h -text
