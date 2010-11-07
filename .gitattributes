@@ -90,6 +90,8 @@ build/msvc/portaudio.vcproj -text
 build/scons/SConscript_common -text
 build/scons/SConscript_opts -text
 /depcomp -text
+doc/src/api_overview.dox -text
+doc/src/images/portaudio-external-architecture-diagram.png -text
 doc/src/license.dox -text
 doc/src/mainpage.dox -text
 doc/src/srcguide.dox -text
