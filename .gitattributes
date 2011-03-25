@@ -1,4 +1,5 @@
 * text=auto !eol
+/README.configure.txt -text
 bindings/cpp/AUTHORS -text
 bindings/cpp/COPYING -text
 bindings/cpp/ChangeLog -text
