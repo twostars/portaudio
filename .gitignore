@@ -16,3 +16,4 @@ build/scons/sconf.log
 doc/html/*
 /lib-stamp
 /libtool
+/portaudio-2.0.pc
