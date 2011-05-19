@@ -1,4 +1,5 @@
 * text=auto !eol
+/CMakeLists.txt svneol=native#text/plain
 /README.configure.txt -text
 bindings/cpp/AUTHORS -text
 bindings/cpp/COPYING -text
@@ -90,6 +91,10 @@ build/msvc/portaudio.sln -text
 build/msvc/portaudio.vcproj -text
 build/scons/SConscript_common -text
 build/scons/SConscript_opts -text
+cmake_support/FindASIOSDK.cmake -text
+cmake_support/FindDXSDK.cmake -text
+cmake_support/options_cmake.h.in -text
+cmake_support/template_portaudio.def -text
 /depcomp -text
 doc/src/api_overview.dox -text
 doc/src/images/portaudio-external-architecture-diagram.png -text
