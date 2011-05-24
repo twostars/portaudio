@@ -1,4 +1,6 @@
 * text=auto !eol
+/CMakeLists.txt svneol=native#text/plain
+/README.configure.txt -text
 bindings/cpp/AUTHORS -text
 bindings/cpp/COPYING -text
 bindings/cpp/ChangeLog -text
@@ -89,6 +91,10 @@ build/msvc/portaudio.sln -text
 build/msvc/portaudio.vcproj -text
 build/scons/SConscript_common -text
 build/scons/SConscript_opts -text
+cmake_support/FindASIOSDK.cmake -text
+cmake_support/FindDXSDK.cmake -text
+cmake_support/options_cmake.h.in -text
+cmake_support/template_portaudio.def -text
 /depcomp -text
 doc/src/api_overview.dox -text
 doc/src/images/portaudio-external-architecture-diagram.png -text
@@ -124,6 +130,7 @@ src/hostapi/asio/Pa_ASIO.pdf -text
 src/hostapi/coreaudio/pa_mac_core_blocking.c -text
 src/hostapi/coreaudio/pa_mac_core_blocking.h -text
 src/hostapi/oss/low_latency_tip.txt svneol=native#unset
+src/hostapi/skeleton/README.txt -text
 src/hostapi/wasapi/mingw-include/AudioSessionTypes.h -text
 src/hostapi/wasapi/mingw-include/FunctionDiscoveryKeys_devpkey.h -text
 src/hostapi/wasapi/mingw-include/audioclient.h -text
@@ -147,6 +154,8 @@ src/hostapi/wasapi/mingw-include/shtypes.h -text
 src/hostapi/wasapi/mingw-include/structuredquery.h -text
 src/hostapi/wasapi/pa_win_wasapi.c -text
 src/hostapi/wasapi/readme.txt -text
+src/os/win/pa_win_coinitialize.c -text
+src/os/win/pa_win_coinitialize.h -text
 src/os/win/pa_win_waveformat.c -text
 src/os/win/pa_win_wdmks_utils.c -text
 src/os/win/pa_win_wdmks_utils.h -text
@@ -160,3 +169,4 @@ test/patest_timing.c -text
 test/patest_wmme_ac3.c -text
 test/patest_wmme_low_level_latency_params.c -text
 test/patest_wmme_surround.c -text
+test/patest_write_sine_nonint.c -text
