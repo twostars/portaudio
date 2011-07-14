@@ -167,6 +167,7 @@ test/patest_sine_channelmaps.c -text
 test/patest_sine_srate.c -text
 test/patest_timing.c -text
 test/patest_wmme_ac3.c -text
+test/patest_wmme_find_best_latency_params.c -text
 test/patest_wmme_low_level_latency_params.c -text
 test/patest_wmme_surround.c -text
 test/patest_write_sine_nonint.c -text
