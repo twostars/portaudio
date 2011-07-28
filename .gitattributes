@@ -121,6 +121,7 @@ qa/loopback/src/test_audio_analyzer.c -text
 qa/loopback/src/test_audio_analyzer.h -text
 qa/loopback/src/write_wav.c -text
 qa/loopback/src/write_wav.h -text
+qa/paqa_latency.c -text
 src/common/pa_debugprint.c -text
 src/common/pa_debugprint.h -text
 src/common/pa_memorybarrier.h -text
@@ -167,6 +168,7 @@ test/patest_sine_channelmaps.c -text
 test/patest_sine_srate.c -text
 test/patest_timing.c -text
 test/patest_wmme_ac3.c -text
+test/patest_wmme_find_best_latency_params.c -text
 test/patest_wmme_low_level_latency_params.c -text
 test/patest_wmme_surround.c -text
 test/patest_write_sine_nonint.c -text
