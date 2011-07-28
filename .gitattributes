@@ -121,6 +121,7 @@ qa/loopback/src/test_audio_analyzer.c -text
 qa/loopback/src/test_audio_analyzer.h -text
 qa/loopback/src/write_wav.c -text
 qa/loopback/src/write_wav.h -text
+qa/paqa_latency.c -text
 src/common/pa_debugprint.c -text
 src/common/pa_debugprint.h -text
 src/common/pa_memorybarrier.h -text
