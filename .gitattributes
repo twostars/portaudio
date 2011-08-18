@@ -166,6 +166,8 @@ test/patest_jack_wasapi.c -text
 test/patest_read_write_wire.c -text
 test/patest_sine_channelmaps.c -text
 test/patest_sine_srate.c -text
+test/patest_suggested_vs_streaminfo_latency.c -text
+test/patest_suggested_vs_streaminfo_latency.py -text
 test/patest_timing.c -text
 test/patest_wmme_ac3.c -text
 test/patest_wmme_find_best_latency_params.c -text
