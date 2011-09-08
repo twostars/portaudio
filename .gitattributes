@@ -1,5 +1,6 @@
 * text=auto !eol
 /CMakeLists.txt svneol=native#text/plain
+/Doxyfile.developer -text
 /README.configure.txt -text
 bindings/cpp/AUTHORS -text
 bindings/cpp/COPYING -text
