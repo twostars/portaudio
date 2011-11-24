@@ -166,6 +166,7 @@ src/os/win/pa_win_waveformat.c -text
 src/os/win/pa_win_wdmks_utils.c -text
 src/os/win/pa_win_wdmks_utils.h -text
 test/patest_converters.c -text
+test/patest_dsound_low_level_latency_params.c -text
 test/patest_dsound_surround.c -text
 test/patest_jack_wasapi.c -text
 test/patest_sine_channelmaps.c -text
