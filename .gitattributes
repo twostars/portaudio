@@ -181,6 +181,7 @@ src/os/win/pa_win_coinitialize.h -text
 src/os/win/pa_win_waveformat.c -text
 src/os/win/pa_win_wdmks_utils.c -text
 src/os/win/pa_win_wdmks_utils.h -text
+test/CMakeLists.txt svneol=native#text/plain
 test/patest_converters.c -text
 test/patest_dsound_find_best_latency_params.c -text
 test/patest_dsound_low_level_latency_params.c -text
