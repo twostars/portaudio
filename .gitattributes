@@ -121,6 +121,7 @@ doc/src/tutorial/writing_a_callback.dox -text
 doc/utils/checkfiledocs.py -text
 examples/CMakeLists.txt svneol=native#text/plain
 examples/paex_read_write_wire.c -text
+examples/paex_record_file.c -text
 examples/paex_sine_c++.cpp -text
 examples/paex_wmme_ac3.c -text
 examples/paex_wmme_surround.c -text
