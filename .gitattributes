@@ -86,6 +86,13 @@ bindings/cpp/source/portaudiocpp/StreamParameters.cxx -text
 bindings/cpp/source/portaudiocpp/System.cxx -text
 bindings/cpp/source/portaudiocpp/SystemDeviceIterator.cxx -text
 bindings/cpp/source/portaudiocpp/SystemHostApiIterator.cxx -text
+bindings/java/c/build/vs2010/PortAudioJNI/PortAudioJNI.sln eol=crlf
+bindings/java/c/build/vs2010/PortAudioJNI/PortAudioJNI.vcproj eol=crlf
+bindings/java/c/build/vs2010/PortAudioJNI/PortAudioJNI.vcxproj -text
+bindings/java/jportaudio.dox -text
+bindings/java/jportaudio/.classpath -text
+bindings/java/jportaudio/.project -text
+bindings/java/scripts/make_header.bat -text
 build/msvc/portaudio.dsp -text
 build/msvc/portaudio.dsw -text
 build/msvc/portaudio.sln -text
