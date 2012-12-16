@@ -166,10 +166,12 @@ src/os/win/pa_win_coinitialize.h -text
 src/os/win/pa_win_waveformat.c -text
 src/os/win/pa_win_wdmks_utils.c -text
 src/os/win/pa_win_wdmks_utils.h -text
+test/CMakeLists.txt -text
 test/patest_converters.c -text
 test/patest_dsound_surround.c -text
 test/patest_jack_wasapi.c -text
 test/patest_sine_channelmaps.c -text
+test/patest_sine_each_channel.c -text
 test/patest_sine_srate.c -text
 test/patest_suggested_vs_streaminfo_latency.c -text
 test/patest_suggested_vs_streaminfo_latency.py -text
