@@ -163,6 +163,7 @@ src/hostapi/coreaudio/pa_mac_core_blocking.c -text
 src/hostapi/coreaudio/pa_mac_core_blocking.h -text
 src/hostapi/oss/low_latency_tip.txt svneol=native#unset
 src/hostapi/skeleton/README.txt -text
+src/hostapi/sndio/pa_sndio.c -text
 src/hostapi/wasapi/mingw-include/AudioSessionTypes.h -text
 src/hostapi/wasapi/mingw-include/FunctionDiscoveryKeys_devpkey.h -text
 src/hostapi/wasapi/mingw-include/audioclient.h -text
