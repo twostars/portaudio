@@ -156,6 +156,10 @@ qa/paqa_latency.c -text
 src/common/pa_debugprint.c -text
 src/common/pa_debugprint.h -text
 src/common/pa_memorybarrier.h -text
+src/hostapi/alsa/pa_alsa_devs_list.c -text
+src/hostapi/alsa/pa_alsa_internal.h -text
+src/hostapi/alsa/pa_alsa_load_dyn.c -text
+src/hostapi/alsa/pa_alsa_load_dyn.h -text
 src/hostapi/asihpi/pa_linux_asihpi.c -text
 src/hostapi/asio/Callback_adaptation_.pdf -text
 src/hostapi/asio/Pa_ASIO.pdf -text
