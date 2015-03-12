@@ -205,3 +205,4 @@ test/patest_timing.c -text
 test/patest_wmme_find_best_latency_params.c -text
 test/patest_wmme_low_level_latency_params.c -text
 testcvs/file1.txt -text
+testcvs/file2.txt -text
