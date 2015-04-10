@@ -99,6 +99,7 @@ build/msvc/portaudio.sln -text
 build/msvc/portaudio.vcproj -text
 build/scons/SConscript_common -text
 build/scons/SConscript_opts -text
+/clear_svnrevision.sh -text
 cmake_support/FindASIOSDK.cmake -text
 cmake_support/FindDXSDK.cmake -text
 cmake_support/options_cmake.h.in -text
@@ -156,6 +157,7 @@ qa/paqa_latency.c -text
 src/common/pa_debugprint.c -text
 src/common/pa_debugprint.h -text
 src/common/pa_memorybarrier.h -text
+src/common/pa_svnrevision.h -text
 src/hostapi/asihpi/pa_linux_asihpi.c -text
 src/hostapi/asio/Callback_adaptation_.pdf -text
 src/hostapi/asio/Pa_ASIO.pdf -text
@@ -206,3 +208,4 @@ test/patest_wmme_find_best_latency_params.c -text
 test/patest_wmme_low_level_latency_params.c -text
 testcvs/file1.txt -text
 testcvs/file2.txt -text
+/update_svnrevision.sh -text
